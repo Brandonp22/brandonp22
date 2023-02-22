@@ -4,7 +4,7 @@
     alt="Typing SVG" 
   />
   <img
-    src="https://starwarsblog.starwars.com/wp-content/uploads/2022/07/giphy-obiwan-2.gif"
+    src="https://top-mmo.fr/wp-content/uploads/2022/07/giphy-obiwan-2.gif"
     width="80"
   />
 </h1>
